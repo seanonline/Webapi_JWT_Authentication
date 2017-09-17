@@ -1,5 +1,5 @@
 # Webapi_JWT_Authentication
-<p align="center"><img width=60% src="https://github.com/anfederico/Clairvoyant/blob/master/media/decatechlabs.png"></p>
+<p align="center"><img width=60% src="https://github.com/seanonline/Webapi_JWT_Authentication/blob/master/media/decatechlabs.png"></p>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
