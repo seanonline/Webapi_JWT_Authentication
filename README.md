@@ -1,7 +1,6 @@
 JWT Authentication for Asp.Net Web Api
 ============
 ---
-
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/anfederico/Clairvoyant/issues)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
@@ -20,10 +19,18 @@ JWT token has three sections:
 2. Claims: JSON format which is encoded as a base64.
 3. Signature: Created and signed based on Header and Claims which is encoded as a base64.
 
+
+## Testing
+
+- I have used [Restlet Client](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm?hl=en)
+
+
+
+
 ## Dependencies
 - Updated to use Latest version of  [System.IdentityModel.Tokens.Jwt  version=5.1.4 ](https://www.nuget.org/packages/System.IdentityModel.Tokens.Jwt/5.2.0-preview1-408290725)
 
----
+
 
 ## How to Use It ?
 - Clone or download the repository
