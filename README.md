@@ -24,6 +24,12 @@ JWT token has three sections:
 
 - I have used [Restlet Client](https://chrome.google.com/webstore/detail/restlet-client-rest-api-t/aejoelaoggembcahagimdiliamlcdmfm?hl=en)
 
+![Get JWT](https://raw.githubusercontent.com/seanonline/Webapi_JWT_Authentication/master/media/getjwt.png "get JWT")
+
+---
+
+![USE JWT](https://raw.githubusercontent.com/seanonline/Webapi_JWT_Authentication/master/media/jwtaccessecuredEndpoint.png "access resource")
+
 
 
 
