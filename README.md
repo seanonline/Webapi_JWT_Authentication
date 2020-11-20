@@ -40,4 +40,4 @@ JWT token has three sections:
 
 ## How to Use It ?
 - Clone or download the repository
-- You can find more details at my blog [SECURING WEBAPI USING JSON WEB TOKEN(JWT) IN C#](http://www.decatechlabs.com/how-to-secure-webapi-using-json-web-tokenjwt)
+- You can find more details at my blog [SECURING WEBAPI USING JSON WEB TOKEN(JWT) IN C#](https://decatechlabs.com/secure-webapi-using-jwt)
