@@ -1,4 +1,6 @@
-**JWT Authentication for Asp.Net Web Api Updated to  .Net Framework 4.7.2 & Visual Studio 2019**
+**JWT Authentication for Asp.Net Web Api  **
+
+** Updated to  .Net Framework 4.7.2 & Visual Studio 2019 ** 
 
 
 ---
