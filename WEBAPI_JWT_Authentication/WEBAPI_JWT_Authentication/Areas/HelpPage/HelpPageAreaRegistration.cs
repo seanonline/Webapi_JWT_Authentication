@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace WEBAPI_JWT_Authentication.Areas.HelpPage
+namespace WebAPIWT.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

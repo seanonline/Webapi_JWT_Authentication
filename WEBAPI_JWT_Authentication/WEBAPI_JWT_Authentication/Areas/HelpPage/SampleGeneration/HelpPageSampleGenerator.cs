@@ -13,7 +13,7 @@ using System.Web.Http.Description;
 using System.Xml.Linq;
 using Newtonsoft.Json;
 
-namespace WEBAPI_JWT_Authentication.Areas.HelpPage
+namespace WebAPIWT.Areas.HelpPage
 {
     /// <summary>
     /// This class will generate the samples for the help page.

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace WEBAPI_JWT_Authentication.Controllers
+namespace WebAPIWT.Controllers
 {
     public class HomeController : Controller
     {

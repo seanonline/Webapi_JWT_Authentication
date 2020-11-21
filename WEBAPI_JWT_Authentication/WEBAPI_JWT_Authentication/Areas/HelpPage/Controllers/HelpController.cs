@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using WEBAPI_JWT_Authentication.Areas.HelpPage.ModelDescriptions;
-using WEBAPI_JWT_Authentication.Areas.HelpPage.Models;
+using WebAPIWT.Areas.HelpPage.ModelDescriptions;
+using WebAPIWT.Areas.HelpPage.Models;
 
-namespace WEBAPI_JWT_Authentication.Areas.HelpPage.Controllers
+namespace WebAPIWT.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace WEBAPI_JWT_Authentication.Areas.HelpPage.ModelDescriptions
+namespace WebAPIWT.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

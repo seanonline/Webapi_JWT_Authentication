@@ -1,38 +1,74 @@
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.csprojResolveAssemblyReference.cache
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WEBAPI_JWT_Authentication.dll.config
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WEBAPI_JWT_Authentication.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WEBAPI_JWT_Authentication.pdb
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Antlr3.Runtime.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Logging.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Tokens.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.Web.Infrastructure.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Newtonsoft.Json.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.IdentityModel.Tokens.Jwt.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Net.Http.Formatting.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Helpers.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.WebHost.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Mvc.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Optimization.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Razor.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Deployment.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Razor.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WebGrease.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Logging.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Tokens.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Newtonsoft.Json.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.IdentityModel.Tokens.Jwt.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Net.Http.Formatting.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Helpers.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.WebHost.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Mvc.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Optimization.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Razor.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Deployment.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Razor.xml
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Antlr3.Runtime.pdb
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.dll
-c:\users\apollo11\documents\visual studio 2013\Projects\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.pdb
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WEBAPI_JWT_Authentication.dll.config
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WEBAPI_JWT_Authentication.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WEBAPI_JWT_Authentication.pdb
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\csc.exe
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\csc.exe.config
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\csc.rsp
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\csi.exe
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\csi.exe.config
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\csi.rsp
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\System.Buffers.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\System.Collections.Immutable.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\System.Memory.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\System.Numerics.Vectors.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\vbc.exe
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\vbc.exe.config
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\vbc.rsp
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\VBCSCompiler.exe
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\roslyn\VBCSCompiler.exe.config
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Antlr3.Runtime.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Logging.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.Web.Infrastructure.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Newtonsoft.Json.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Net.Http.Formatting.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Helpers.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.WebHost.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Mvc.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Optimization.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Razor.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Deployment.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Razor.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\WebGrease.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Logging.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Newtonsoft.Json.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Net.Http.Formatting.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Helpers.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Http.WebHost.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Mvc.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Optimization.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.Razor.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Deployment.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\System.Web.WebPages.Razor.xml
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\bin\Antlr3.Runtime.pdb
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.csprojAssemblyReference.cache
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.csproj.CoreCompileInputs.cache
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.csproj.CopyComplete
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.dll
+D:\Cybria Consulting\blogs\articlejwtrepo\Webapi_JWT_Authentication\WEBAPI_JWT_Authentication\WEBAPI_JWT_Authentication\obj\Debug\WEBAPI_JWT_Authentication.pdb

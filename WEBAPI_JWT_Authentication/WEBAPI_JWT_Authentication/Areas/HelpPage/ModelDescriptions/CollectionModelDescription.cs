@@ -1,4 +1,4 @@
-namespace WEBAPI_JWT_Authentication.Areas.HelpPage.ModelDescriptions
+namespace WebAPIWT.Areas.HelpPage.ModelDescriptions
 {
     public class CollectionModelDescription : ModelDescription
     {

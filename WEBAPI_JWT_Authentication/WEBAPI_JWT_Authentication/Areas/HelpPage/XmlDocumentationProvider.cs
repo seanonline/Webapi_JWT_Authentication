@@ -5,9 +5,9 @@ using System.Reflection;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
 using System.Xml.XPath;
-using WEBAPI_JWT_Authentication.Areas.HelpPage.ModelDescriptions;
+using WebAPIWT.Areas.HelpPage.ModelDescriptions;
 
-namespace WEBAPI_JWT_Authentication.Areas.HelpPage
+namespace WebAPIWT.Areas.HelpPage
 {
     /// <summary>
     /// A custom <see cref="IDocumentationProvider"/> that reads the API documentation from an XML documentation file.

@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace WEBAPI_JWT_Authentication
+namespace WebAPIWT
 {
     public class FilterConfig
     {

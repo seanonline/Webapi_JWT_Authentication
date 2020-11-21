@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Net.Http.Headers;
 using System.Web.Http.Description;
-using WEBAPI_JWT_Authentication.Areas.HelpPage.ModelDescriptions;
+using WebAPIWT.Areas.HelpPage.ModelDescriptions;
 
-namespace WEBAPI_JWT_Authentication.Areas.HelpPage.Models
+namespace WebAPIWT.Areas.HelpPage.Models
 {
     /// <summary>
     /// The model that represents an API displayed on the help page.

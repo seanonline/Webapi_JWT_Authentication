@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace WEBAPI_JWT_Authentication
+namespace WebAPIWT
 {
     public static class WebApiConfig
     {

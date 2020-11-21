@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace WEBAPI_JWT_Authentication.Areas.HelpPage.ModelDescriptions
+namespace WebAPIWT.Areas.HelpPage.ModelDescriptions
 {
     public class EnumTypeModelDescription : ModelDescription
     {
