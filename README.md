@@ -1,5 +1,8 @@
-JWT Authentication for Asp.Net Web Api
-============
+**JWT Authentication for Asp.Net Web Api**
+
+**Updated to  .Net Framework 4.7.2 & Visual Studio 2019 ** 
+
+
 ---
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/anfederico/Clairvoyant/issues)
@@ -34,7 +37,7 @@ JWT token has three sections:
 
 
 ## Dependencies
-- Updated to use Latest version of  [System.IdentityModel.Tokens.Jwt  version=5.1.4 ](https://www.nuget.org/packages/System.IdentityModel.Tokens.Jwt/5.2.0-preview1-408290725)
+- Updated to use Latest version of  [System.IdentityModel.Tokens.Jwt Version 6.8.0  ](https://www.nuget.org/packages/System.IdentityModel.Tokens.Jwt/)
 
 
 
