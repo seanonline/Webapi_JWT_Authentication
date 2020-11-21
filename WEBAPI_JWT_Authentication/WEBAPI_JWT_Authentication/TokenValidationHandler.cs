@@ -73,7 +73,18 @@ namespace WebAPIWT
             {
                 statusCode = HttpStatusCode.InternalServerError;
             }
-            return Task<HttpResponseMessage>.Factory.StartNew(() => new HttpResponseMessage(statusCode) { });
+
+            //@josbol mentioned this issue in 2018
+            
+            //Since this solution pushes the request further down the pipeline, instead of immediately returning, this 
+            //solution consumes more resources for each request, so this might not be the right solution for everybody.
+            //Alternatively one could manually add the missing headers before returning,
+            //but I don't think that would be a good idea.
+
+            //- this line would return correct CORS header.- credit to 
+            //return base.SendAsync(request, cancellationToken);
+
+                    return Task<HttpResponseMessage>.Factory.StartNew(() => new HttpResponseMessage(statusCode) { });
         }
 
         public bool LifetimeValidator(DateTime? notBefore, DateTime? expires, SecurityToken securityToken, TokenValidationParameters validationParameters)
