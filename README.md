@@ -1,5 +1,8 @@
-JWT Authentication for Asp.Net Web Api - Updated to  .Net Framework 4.7.2 & Visual Studio 2019
-============
+**JWT Authentication for Asp.Net Web Api 
+
+**Updated to  .Net Framework 4.7.2 & Visual Studio 2019
+
+
 ---
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/anfederico/Clairvoyant.svg)](https://github.com/anfederico/Clairvoyant/issues)
