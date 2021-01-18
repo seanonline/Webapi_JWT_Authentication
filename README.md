@@ -1,6 +1,6 @@
-**JWT Authentication for Asp.Net Web Api**
+# JWT Authentication for Asp.Net Web Api
 
-**Updated to  .Net Framework 4.7.2 & Visual Studio 2019 ** 
+### Updated to  .Net Framework 4.7.2 & Visual Studio 2019 
 
 
 ---
@@ -10,6 +10,8 @@
 
 
 This is a webapi project written in visual studio and we will secure endpoint using [JWT](jwt.io).
+
+#### There is pre-requiste to implement OAUTH. you can learn about OAUTH here [OAuth 2.0: The Definitive Guide](https://decatechlabs.com/oauth2-explained-and-how-oauth2-works-oauth-in-action)
 
 Basically, a JWT token look like:
 
@@ -31,8 +33,6 @@ JWT token has three sections:
 ---
 
 ![USE JWT](https://raw.githubusercontent.com/seanonline/Webapi_JWT_Authentication/master/media/jwtaccessecuredEndpoint.png "access resource")
-
-
 
 
 ## Dependencies
